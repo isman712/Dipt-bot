@@ -1,0 +1,19 @@
+{
+  "name": "nmp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-command-cooldown": "^1.0.8",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.5.3",
+    "ms": "^2.1.3"
+  }
+}
